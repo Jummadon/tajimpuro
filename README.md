@@ -1,2 +1,2 @@
 # tajimpuro
-out 1st respository
+our 1st respository, tajimpuro is a  social organaization.
